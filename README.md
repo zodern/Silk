@@ -1,17 +1,17 @@
 # Silk
 
-GUI For Developers and Node OS
+GUI For Developers and Node OS.
 
 [![David](https://img.shields.io/david/Silk-GUI/Silk.svg?style=flat-square)](https://david-dm.org/Silk-GUI/Silk) [![Travis](https://img.shields.io/travis/Silk-GUI/Silk.svg?style=flat-square)](https://travis-ci.org/Silk-GUI/Silk)
 [![Gitter](https://img.shields.io/gitter/room/Silk-GUI/Silk.svg?style=flat-square)](https://gitter.im/Silk-GUI/Silk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm](https://img.shields.io/npm/dm/silk-gui.svg?style=flat-square)](https://www.npmjs.com/package/silk-gui) 
-
 
 ### Goals
 - Fast and Lightweight
 - Designed for Developers
 - Modular
 - Just work (try to fix problems automatically, or, if unable, explain how to fix them)
+- Enhance your productivity
 - Window Manager's and app's client can run on different computer than server
 
 [Roadmap](https://github.com/zodern/Silk/wiki/Roadmap)
@@ -30,7 +30,13 @@ silk - Starts silk
     -o - opens Silk GUI in a full screen window
 ```
 
+Open `localhost:3000` or the remote url in a web browser.
+
+## Apps
+
 [Available Apps](https://github.com/zodern/Silk/wiki/Apps)
+
+Install apps using the App Manager.
 
 ## Create an App
 
